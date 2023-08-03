@@ -1,7 +1,8 @@
 ### 中华人民共和国开源软件相关法律法规
 ### Laws and Regulations of China on Open-Source Software
-1、 [著作权法](./相关法律法规/著作权法.md)<br>
-2、 [著作权法实施条例](./相关法律法规/著作权法实施条例.md)<br>
+1、[著作权法](./相关法律法规/著作权法.md)<br>
+2、[著作权法实施条例](./相关法律法规/著作权法实施条例.md)<br>
+3、[计算机软件保护条例](./相关法律法规/计算机软件保护条例.md)<br>
 ### 中华人民共和国开源软件诉讼纠纷案例汇总<br>
 ### Summary of Open-Source Software Dispute Cases in China<br>
 1、"云蜻蜓软件"案<br>
