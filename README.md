@@ -6,6 +6,12 @@
 4、[计算机软件保护条例](./相关法律法规和司法解释/计算机软件保护条例.md)<br>
 5、[最高人民法院关于审理著作权民事纠纷案件适用法律若干问题的解释](./相关法律法规和司法解释/最高人民法院关于审理著作权民事纠纷案件适用法律若干问题的解释.md)<br>
 
+### 开源许可证汇总<br>
+### Summary of Open-Source License<br>
+1、Apache License 2.0
+[英文版](./开源许可证/Apache License 2.0/英文版.md)<br>
+[中文版](./开源许可证/Apache License 2.0/中文版.md)<br>
+
 ### 中华人民共和国开源软件诉讼纠纷案例汇总<br>
 ### Summary of Open-Source Software Dispute Cases in China<br>
 1、"云蜻蜓软件"案<br>
