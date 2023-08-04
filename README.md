@@ -9,12 +9,12 @@
 ### 开源许可证汇总<br>
 ### Summary of Open-Source License<br>
 1、Apache License 2.0<br>
-[英文版](./开源许可证/`Apache License 2.0`/英文版.md)<br>
-[中文版](./开源许可证/Apache License 2.0/中文版.md)<br>
+[英文版](./开源许可证/Apache&nbspLicense&nbsp2.0/英文版.md)<br>
+[中文版](./开源许可证/Apache&nbspLicense&nbsp2.0/中文版.md)<br>
 
 2、MIT License<br>
-[英文版](./开源许可证/MIT License/英文版.md)<br>
-[中文版](./开源许可证/MIT License/中文版.md)<br>
+[英文版](./开源许可证/MIT&nbspLicense/英文版.md)<br>
+[中文版](./开源许可证/MIT&nbspLicense/中文版.md)<br>
 
 ### 中华人民共和国开源软件诉讼纠纷案例汇总<br>
 ### Summary of Open-Source Software Dispute Cases in China<br>
