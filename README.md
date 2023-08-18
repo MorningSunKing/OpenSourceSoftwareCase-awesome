@@ -8,15 +8,19 @@
 
 ### 开源许可证汇总  
 ### Summary of Open-Source License  
-1、木兰宽松许可证2.0  
+1、木兰宽松许可证2.0（以中文版为准）  
 [中文版](./开源许可证/木兰宽松许可证2.0/中文版.md)  
 [英文版](./开源许可证/木兰宽松许可证2.0/英文版.md)  
 
-2、Apache License 2.0  
+2、木兰公共许可证2.0（以中文版为准）  
+[中文版](./开源许可证/木兰公共许可证2.0/中文版.md)  
+[英文版](./开源许可证/木兰公共许可证2.0/英文版.md)  
+
+3、Apache License 2.0  
 [英文版](./开源许可证/ApacheLicense2.0/英文版.md)  
 [中文版](./开源许可证/ApacheLicense2.0/中文版.md)  
 
-3、MIT License  
+4、MIT License  
 [英文版](./开源许可证/MITLicense/英文版.md)  
 [中文版](./开源许可证/MITLicense/中文版.md)  
 
