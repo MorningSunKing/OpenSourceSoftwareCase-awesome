@@ -43,8 +43,8 @@
 
 ### 中华人民共和国A股IPO开源合规案例汇总
 1、凝思软件（创业板）  
-[问询] (./A股IPO开源合规案例/凝思软件/问询.md)  
-[答复] (./A股IPO开源合规案例/凝思软件/答复.md)  
+[问询](./A股IPO开源合规案例/凝思软件/问询.md)  
+[答复](./A股IPO开源合规案例/凝思软件/答复.md)  
 
 ***
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />本作品采用<a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.zh">知识共享署名4.0国际许可协议</a>进行许可。
