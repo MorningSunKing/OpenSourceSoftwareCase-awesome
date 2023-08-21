@@ -20,11 +20,15 @@
 [英文版](./开源许可证/ApacheLicense2.0/英文版.md)  
 [中文版](./开源许可证/ApacheLicense2.0/中文版.md)  
 
-4、AGPL v3.0  
+4、GPL v3.0  
+[英文版](./开源许可证/GPLv3.0/英文版.md)  
+[中文版](./开源许可证/GPLv3.0/中文版.md)  
+
+5、AGPL v3.0  
 [英文版](./开源许可证/AGPLv3.0/英文版.md)  
 [中文版](./开源许可证/AGPLv3.0/中文版.md)  
 
-5、MIT License  
+6、MIT License  
 [英文版](./开源许可证/MITLicense/英文版.md)  
 [中文版](./开源许可证/MITLicense/中文版.md)  
 
