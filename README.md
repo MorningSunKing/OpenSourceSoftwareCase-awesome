@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 ### 中华人民共和国开源软件相关法律法规和司法解释
 ### Laws, Regulations and Judicial Interpretations of China on Open-Source Software
 |序号|相关法律|
